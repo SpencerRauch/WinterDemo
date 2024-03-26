@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\stacks\\CSharp\\WinterDemo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WinterDemo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WinterDemo.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\stacks\\CSharp\\WinterDemo\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\stacks\\CSharp\\WinterDemo\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\stacks\\CSharp\\WinterDemo\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\stacks\\CSharp\\WinterDemo\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WinterDemo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WinterDemo.props",
+      "PackagePath": "build\\WinterDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WinterDemo.props",
+      "PackagePath": "buildMultiTargeting\\WinterDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WinterDemo.props",
+      "PackagePath": "buildTransitive\\WinterDemo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
